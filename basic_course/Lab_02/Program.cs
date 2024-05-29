@@ -236,6 +236,7 @@ namespace Lab_02
             //     }
             // }
             //
+            // Console.WriteLine("sumowanie macierzy: ");
             // for (int i = 0; i < n; i++)
             // {
             //     for (int j = 0; j < n; j++)
@@ -244,7 +245,6 @@ namespace Lab_02
             //     }
             // }
             //
-            // Console.WriteLine("sumowanie macierzy: ");
             // for (int i = 0; i < n; i++)
             // {
             //     for (int j = 0; j < n; j++)
